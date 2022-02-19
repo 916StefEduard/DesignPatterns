@@ -11,5 +11,5 @@
 
 
 Object Oriented Programming Questions:
--operator (parameters)
--compile time polymorphism(different implementations of the same function a couple times in a row).
+1)operator (parameters)
+2)compile time polymorphism(different implementations of the same function a couple times in a row).
