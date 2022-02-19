@@ -8,3 +8,8 @@
 7) Observer Pattern = is used when there is one-to-many relationship between objects such as if one object is modified, its dependent objects are to be notified automatically.
 8) Memento Pattern = is used to restore the state of an object to a previous state.
 9) Proxy design Pattern = we create an object having original object to interface its functionality to outer world
+
+
+Object Oriented Programming Questions:
+-operator (parameters)
+-compile time polymorphism(different implementations of the same function a couple times in a row).
