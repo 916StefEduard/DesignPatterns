@@ -10,6 +10,7 @@
 9) Proxy design Pattern = we create an object having original object to interface its functionality to outer world
 
 
-Object Oriented Programming Questions:
+# Object Oriented Programming Questions:
 1)operator (parameters)
 2)compile time polymorphism(different implementations of the same function a couple times in a row).
+3)friend class = class which can access the private and protected members of another class in which it is declared as friend
