@@ -14,3 +14,8 @@
 1. operator (parameters).
 2. compile time polymorphism(different implementations of the same function a couple times in a row).
 3. friend class = class which can access the private and protected members of another class in which it is declared as friend.
+
+# Object Oriented Programming Principles
+1. Encapsulation = restricting direct access to an object component
+2. Abstraction = hiding details of a certain work 
+3. Inheritance = one class inherites
