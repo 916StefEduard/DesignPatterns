@@ -19,3 +19,9 @@
 1. Encapsulation = restricting direct access to an object component
 2. Abstraction = hiding details of a certain work 
 3. Inheritance = one class inherites
+
+Static variable in Java = is essentially a global variable shared among all of the class
+Static method in Java = function that has some restrictions like restricted access to variables or other functions
+                        that are not static.
+Static Class in Java = used only inside another class and has restricted access to variables that are not static from the
+                        outside class.
