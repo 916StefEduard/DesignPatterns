@@ -26,6 +26,8 @@ Static method in Java = function that has some restrictions like restricted acce
 Static Class in Java = used only inside another class and has restricted access to variables that are not static from the
                         outside class.
 
+Multiple Inheritance: Not allowed in Java only in C++ 
+/ Multiple Interface Inheritance is allowed in Java (or interface to interface inheritance)
 HTTP Request:
       GET: used to retrieve information from the server using the url
       POST: used to send data to the server using html forms
